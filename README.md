@@ -26,7 +26,7 @@ Adapter Pattern được sử dụng khi bạn muốn một lớp có thể tư�
 
 1. **Clone repository:**
    ```bash
-   git clone https://github.com/username/adapter-design-pattern.git
+   git clone https://github.com/RankillerDY/adapter-design-pattern.git
    cd adapter-design-pattern
    ```
 
